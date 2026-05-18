@@ -1,6 +1,6 @@
 # Frontend Spec: CPA (ผู้สอบบัญชี) Integration — Draft v0.9
 
-อิงจาก:
+อิงจาก: 
 
 - Draft (UI vision): [draft.md](draft.md)
 - Backend spec: [../../../gms-backend/spec/cpa-joined/spec.md](../../../gms-backend/spec/cpa-joined/spec.md) (**Rev 3.6 — phase 1–8 implemented**)
